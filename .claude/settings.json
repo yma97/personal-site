@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/wintermelon/Projects/personal-site/src/components /Users/wintermelon/Projects/personal-site/src/app/about /Users/wintermelon/Projects/personal-site/src/app/projects /Users/wintermelon/Projects/personal-site/src/app/thoughts /Users/wintermelon/Projects/personal-site/src/app/travel)"
+    ],
+    "additionalDirectories": [
+      "/Users/wintermelon/Projects/personal-site/src"
+    ]
+  }
+}
